@@ -3,10 +3,10 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am an ambitious Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gdansk, Poland.
+I am an ambitious Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gdansk, Poland.
 
-- 🔭 I’m working as a Java Trainee at EPAM Systems.
-- 🌱 I'm currently learning Spring, Spring Boot, REST API and Machine Learning.
+- 🔭 I’m working as a Java Developer at Capgemini.
+- 🌱 I'm currently learning AWS, AI/ML and Blockchain.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-DanilaRubleuski-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danila-rubleuski-a9b6651a7/)
 
 ---
