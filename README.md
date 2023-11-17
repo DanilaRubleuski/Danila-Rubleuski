@@ -1,12 +1,10 @@
-<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
 ### :woman_technologist: &nbsp;About Me :
 
-I am an ambitious Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gdansk, Poland.
+I am an ambitious, AWS certified Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gdansk, Poland.
 
-- 🔭 I’m working as a Java Developer at Capgemini.
-- 🌱 I'm currently learning AWS, AI/ML and Blockchain.
+- 🔭 Contributing as a Software Engineer to Capgemini.
+- 🌱 Focusing on creating high-quality, customer-oriented solutions that drive business success. Specializing in crafting microservices and implementing high-performance business logic. 
+- 💖 Passionate about cutting-edge technologies, including cloud computing, AI/ML and Blockchain.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-DanilaRubleuski-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danila-rubleuski-a9b6651a7/)
 
 ---
@@ -38,7 +36,3 @@ I am an ambitious Software Developer <img src="https://media.giphy.com/media/WUl
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanilaRubleuski&theme=github-dark-blue&background=000000)](https://git.io/streak-stats)
-![Danila Rubleuski's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilarubleuski&theme=github_dark&show_icons=true)
----
